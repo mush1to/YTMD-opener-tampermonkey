@@ -10,6 +10,6 @@ Feel free to open PR to make it looks better.
 
 This script is for YouTube Music Desktop App v2.
 
-Support for links don't have a list ID like TuneCore links.
+Support for links that don't have a list ID like TuneCore links.
 
 by mush1to
