@@ -2,7 +2,7 @@
 // @name         YTMD opener
 // @namespace    http://ytmdesktop.app/
 // @version      0.1_v6410
-// @description  Add a button in youtube music to help you open it in YTMDesktop app. Adapting to TuneCore links[no list ID].
+// @description  Add a button in youtube music to help you open it in YTMDesktop app. Support for TuneCore links that do not have a list ID.
 // @author       mingjun97, mush1to
 // @match        https://music.youtube.com/*
 // @grant        none
